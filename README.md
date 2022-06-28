@@ -8,19 +8,19 @@ This will create .p12 file on your Desktop to upload into Jamf Pro
 Screenshots:
 
 First PPPC Prompt for Downloads
-https://github.com/kylejericson/Jamf-Connect-Google-P12er/blob/main/Screenshots/PPPC1.png
+![alt text](https://github.com/kylejericson/Jamf-Connect-Google-P12er/blob/main/Screenshots/PPPC1.png)
 
 Prompt for .Key file
-https://github.com/kylejericson/Jamf-Connect-Google-P12er/blob/main/Screenshots/Key.png
+![alt text](https://github.com/kylejericson/Jamf-Connect-Google-P12er/blob/main/Screenshots/Key.png)
 
 Prompt for .Crt file
-https://github.com/kylejericson/Jamf-Connect-Google-P12er/blob/main/Screenshots/Crt.png
+![alt text](https://github.com/kylejericson/Jamf-Connect-Google-P12er/blob/main/Screenshots/Crt.png)
 
 Password Prompt for P12 file
-https://github.com/kylejericson/Jamf-Connect-Google-P12er/blob/main/Screenshots/PasswordPrompt.png
+![alt text](https://github.com/kylejericson/Jamf-Connect-Google-P12er/blob/main/Screenshots/PasswordPrompt.png)
 
 Second PPPC Prompt for Desktop
-https://github.com/kylejericson/Jamf-Connect-Google-P12er/blob/main/Screenshots/PPPC2.png
+![alt text](https://github.com/kylejericson/Jamf-Connect-Google-P12er/blob/main/Screenshots/PPPC2.png)
 
 Final P12 File
-https://github.com/kylejericson/Jamf-Connect-Google-P12er/blob/main/Screenshots/P12.png
+![alt text](https://github.com/kylejericson/Jamf-Connect-Google-P12er/blob/main/Screenshots/P12.png)
